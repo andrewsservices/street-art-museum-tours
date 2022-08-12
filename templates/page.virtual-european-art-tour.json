@@ -1,0 +1,612 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "1659204653ec8f2fe6": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "1659204653cc90e35b-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "1659204653cc90e35b-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "1659204653cc90e35b-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "1659204653cc90e35b-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1659204653cc90e35b-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "1659204653cc90e35b-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "1659204653cc90e35b-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "1659204653cc90e35b-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "1659204653cc90e35b-0",
+        "1659204653cc90e35b-1",
+        "1659204653cc90e35b-2",
+        "1659204653cc90e35b-3",
+        "1659204653cc90e35b-4",
+        "1659204653cc90e35b-5",
+        "1659204653cc90e35b-6",
+        "1659204653cc90e35b-7"
+      ],
+      "settings": {
+        "product": "august-sunday-21-classical-architecture-tour-with-rebecca-swerdlow-starting-at-4-00-pm-eastern-time",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1659202021e13bc053": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "165920202175cea904-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "165920202175cea904-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "165920202175cea904-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "165920202175cea904-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "165920202175cea904-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "165920202175cea904-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "165920202175cea904-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "165920202175cea904-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "165920202175cea904-0",
+        "165920202175cea904-1",
+        "165920202175cea904-2",
+        "165920202175cea904-3",
+        "165920202175cea904-4",
+        "165920202175cea904-5",
+        "165920202175cea904-6",
+        "165920202175cea904-7"
+      ],
+      "settings": {
+        "product": "virtual-american-art-tour-with-margo-george",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16592270956a9017d8": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "1659227095ec9fe7f2-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "1659227095ec9fe7f2-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "1659227095ec9fe7f2-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "1659227095ec9fe7f2-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1659227095ec9fe7f2-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "1659227095ec9fe7f2-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "1659227095ec9fe7f2-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "1659227095ec9fe7f2-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "1659227095ec9fe7f2-0",
+        "1659227095ec9fe7f2-1",
+        "1659227095ec9fe7f2-2",
+        "1659227095ec9fe7f2-3",
+        "1659227095ec9fe7f2-4",
+        "1659227095ec9fe7f2-5",
+        "1659227095ec9fe7f2-6",
+        "1659227095ec9fe7f2-7"
+      ],
+      "settings": {
+        "product": "virtual-french-impressionism-art-tour-1",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "165922720340aac6d1": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "1659227203bd21e4a9-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "1659227203bd21e4a9-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "1659227203bd21e4a9-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "1659227203bd21e4a9-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1659227203bd21e4a9-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "1659227203bd21e4a9-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "1659227203bd21e4a9-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "1659227203bd21e4a9-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "1659227203bd21e4a9-0",
+        "1659227203bd21e4a9-1",
+        "1659227203bd21e4a9-2",
+        "1659227203bd21e4a9-3",
+        "1659227203bd21e4a9-4",
+        "1659227203bd21e4a9-5",
+        "1659227203bd21e4a9-6",
+        "1659227203bd21e4a9-7"
+      ],
+      "settings": {
+        "product": "virtual-french-impressionism-art-tour-with-sarah-barbosa-august-27-starting-at-11-30-am-et",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1659227126b10d64e3": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "165922712625469faf-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "165922712625469faf-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "165922712625469faf-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "165922712625469faf-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "165922712625469faf-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "165922712625469faf-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "165922712625469faf-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "165922712625469faf-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "165922712625469faf-0",
+        "165922712625469faf-1",
+        "165922712625469faf-2",
+        "165922712625469faf-3",
+        "165922712625469faf-4",
+        "165922712625469faf-5",
+        "165922712625469faf-6",
+        "165922712625469faf-7"
+      ],
+      "settings": {
+        "product": "virtual-french-impressionism-art-tour-with-margo-george-august-27-starting-at-3-00-pm-et",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1659394238f131761b": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "1659394238f4932298-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "European Art Tour",
+            "heading_size": "h1"
+          }
+        },
+        "1659394238f4932298-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1659394238f4932298-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1659394238f4932298-0",
+        "1659394238f4932298-1",
+        "1659394238f4932298-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "165939435833f15cf2": {
+      "type": "featured-product",
+      "blocks": {
+        "1659394358443f1db8-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "1659394358443f1db8-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "1659394358443f1db8-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "1659394358443f1db8-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1659394358443f1db8-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "1659394358443f1db8-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "1659394358443f1db8-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "1659394358443f1db8-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "1659394358443f1db8-0",
+        "1659394358443f1db8-1",
+        "1659394358443f1db8-2",
+        "1659394358443f1db8-3",
+        "1659394358443f1db8-4",
+        "1659394358443f1db8-5",
+        "1659394358443f1db8-6",
+        "1659394358443f1db8-7"
+      ],
+      "settings": {
+        "product": "virtual-european-art-tour",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "disabled": true,
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "email-form": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "paragraph",
+        "email-form"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "1659394278ee5edebd": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "1659394278f8a88862-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "1659394278f8a88862-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "1659394278f8a88862-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "1659394278f8a88862-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1659394278f8a88862-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "1659394278f8a88862-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "1659394278f8a88862-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "1659394278f8a88862-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "1659394278f8a88862-0",
+        "1659394278f8a88862-1",
+        "1659394278f8a88862-2",
+        "1659394278f8a88862-3",
+        "1659394278f8a88862-4",
+        "1659394278f8a88862-5",
+        "1659394278f8a88862-6",
+        "1659394278f8a88862-7"
+      ],
+      "settings": {
+        "product": "",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1659204653ec8f2fe6",
+    "1659202021e13bc053",
+    "16592270956a9017d8",
+    "165922720340aac6d1",
+    "1659227126b10d64e3",
+    "1659394238f131761b",
+    "165939435833f15cf2",
+    "newsletter",
+    "1659394278ee5edebd"
+  ]
+}

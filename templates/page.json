@@ -1,0 +1,309 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "1659448986c8d4ab16": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "16594489855074d5f5-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "16594489855074d5f5-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "16594489855074d5f5-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "16594489855074d5f5-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "16594489855074d5f5-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "16594489855074d5f5-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "16594489855074d5f5-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "16594489855074d5f5-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "16594489855074d5f5-0",
+        "16594489855074d5f5-1",
+        "16594489855074d5f5-2",
+        "16594489855074d5f5-3",
+        "16594489855074d5f5-4",
+        "16594489855074d5f5-5",
+        "16594489855074d5f5-6",
+        "16594489855074d5f5-7"
+      ],
+      "settings": {
+        "product": "private-american-art-tour",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1659369617fedabb1c": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "16593696171df7a935-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Virtual French Impressionism",
+            "heading_size": "h1"
+          }
+        },
+        "16593696171df7a935-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>ladeda<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16593696171df7a935-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "shopify:\/\/products\/virtual-french-impressionism-art-tour-1"
+          }
+        }
+      },
+      "block_order": [
+        "16593696171df7a935-0",
+        "16593696171df7a935-1",
+        "16593696171df7a935-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/skiffs_1985.64.6.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16593907595004b3e4": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "16593907594f663639-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "virtual tour",
+            "heading_size": "h1"
+          }
+        },
+        "16593907594f663639-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>octerber 12th 2022<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16593907594f663639-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16593907594f663639-0",
+        "16593907594f663639-1",
+        "16593907594f663639-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/236308fg.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1659391773369774b3": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "1659391773fb73d2dc-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "More Action",
+            "heading_size": "h1"
+          }
+        },
+        "1659391773fb73d2dc-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>laddeda<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1659391773fb73d2dc-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "shopify:\/\/products\/virtual-french-impressionism-art-tour-with-margo-george-august-27-starting-at-3-00-pm-et"
+          }
+        }
+      },
+      "block_order": [
+        "1659391773fb73d2dc-0",
+        "1659391773fb73d2dc-1",
+        "1659391773fb73d2dc-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/skiffs_1985.64.6.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16595366402b525754": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "1659536639572cafeb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "This Tour is on Summer Break",
+            "heading_size": "h1"
+          }
+        },
+        "1659536639572cafeb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Will be back in the fall<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1659536639572cafeb-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1659536639572cafeb-0",
+        "1659536639572cafeb-1",
+        "1659536639572cafeb-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/bedroom.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "disabled": true,
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "email-form": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "paragraph",
+        "email-form"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1659448986c8d4ab16",
+    "1659369617fedabb1c",
+    "16593907595004b3e4",
+    "1659391773369774b3",
+    "16595366402b525754",
+    "newsletter"
+  ]
+}

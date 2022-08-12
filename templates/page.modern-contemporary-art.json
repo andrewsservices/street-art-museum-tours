@@ -1,0 +1,271 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "1659204653ec8f2fe6": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "1659204653cc90e35b-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "1659204653cc90e35b-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "1659204653cc90e35b-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "1659204653cc90e35b-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1659204653cc90e35b-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "1659204653cc90e35b-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "1659204653cc90e35b-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "1659204653cc90e35b-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "1659204653cc90e35b-0",
+        "1659204653cc90e35b-1",
+        "1659204653cc90e35b-2",
+        "1659204653cc90e35b-3",
+        "1659204653cc90e35b-4",
+        "1659204653cc90e35b-5",
+        "1659204653cc90e35b-6",
+        "1659204653cc90e35b-7"
+      ],
+      "settings": {
+        "product": "august-sunday-21-classical-architecture-tour-with-rebecca-swerdlow-starting-at-4-00-pm-eastern-time",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1659202021e13bc053": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "165920202175cea904-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "165920202175cea904-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "165920202175cea904-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "165920202175cea904-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "165920202175cea904-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "165920202175cea904-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "165920202175cea904-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "165920202175cea904-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "165920202175cea904-0",
+        "165920202175cea904-1",
+        "165920202175cea904-2",
+        "165920202175cea904-3",
+        "165920202175cea904-4",
+        "165920202175cea904-5",
+        "165920202175cea904-6",
+        "165920202175cea904-7"
+      ],
+      "settings": {
+        "product": "virtual-american-art-tour-with-margo-george",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "165922609645e438c5": {
+      "type": "featured-product",
+      "blocks": {
+        "1659226096a5f5582d-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "1659226096a5f5582d-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "1659226096a5f5582d-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "1659226096a5f5582d-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1659226096a5f5582d-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "1659226096a5f5582d-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "1659226096a5f5582d-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "1659226096a5f5582d-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "1659226096a5f5582d-0",
+        "1659226096a5f5582d-1",
+        "1659226096a5f5582d-2",
+        "1659226096a5f5582d-3",
+        "1659226096a5f5582d-4",
+        "1659226096a5f5582d-5",
+        "1659226096a5f5582d-6",
+        "1659226096a5f5582d-7"
+      ],
+      "settings": {
+        "product": "contemporary-modern-art-tour-with-stephen-mead-august-21-starting-at-2-pm-est",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "disabled": true,
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "email-form": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "paragraph",
+        "email-form"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1659204653ec8f2fe6",
+    "1659202021e13bc053",
+    "165922609645e438c5",
+    "newsletter"
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "1659369617fedabb1c": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "16593696171df7a935-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Virtual French Impressionism",
+            "heading_size": "h1"
+          }
+        },
+        "16593696171df7a935-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>ladeda<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16593696171df7a935-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "shopify:\/\/products\/virtual-french-impressionism-art-tour-1"
+          }
+        }
+      },
+      "block_order": [
+        "16593696171df7a935-0",
+        "16593696171df7a935-1",
+        "16593696171df7a935-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/skiffs_1985.64.6.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16593907595004b3e4": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "16593907594f663639-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "virtual tour",
+            "heading_size": "h1"
+          }
+        },
+        "16593907594f663639-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>octerber 12th 2022<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16593907594f663639-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16593907594f663639-0",
+        "16593907594f663639-1",
+        "16593907594f663639-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/236308fg.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1659391773369774b3": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "1659391773fb73d2dc-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "More Action",
+            "heading_size": "h1"
+          }
+        },
+        "1659391773fb73d2dc-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>laddeda<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1659391773fb73d2dc-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "shopify:\/\/products\/virtual-french-impressionism-art-tour-with-margo-george-august-27-starting-at-3-00-pm-et"
+          }
+        }
+      },
+      "block_order": [
+        "1659391773fb73d2dc-0",
+        "1659391773fb73d2dc-1",
+        "1659391773fb73d2dc-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/skiffs_1985.64.6.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "disabled": true,
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "email-form": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "paragraph",
+        "email-form"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1659369617fedabb1c",
+    "16593907595004b3e4",
+    "1659391773369774b3",
+    "newsletter"
+  ]
+}
